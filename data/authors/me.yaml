@@ -14,6 +14,12 @@ bio: |
 affiliations:
   - name: North China University of Water Resources and Electric Power
 links:
+  - icon: hero/academic-cap
+    url: https://www2.ncwu.edu.cn/guanjing/info/1119/14660.htm
+    label: University Profile
+  - icon: brands/github
+    url: https://github.com/wangxiaolei0721
+    label: GitHub
   - icon: at-symbol
     url: mailto:wangxiaolei@ncwu.edu.cn
     label: Email
