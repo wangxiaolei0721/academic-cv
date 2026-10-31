@@ -1,0 +1,9 @@
+# Skip optional demo embeds during local preview when Hugging Face is unreachable.
+security:
+  http:
+    urls:
+      - '(?i)^https?://[a-z0-9]'
+      - '! (?i)^https?://\d+\.'
+      - '! (?i)localhost'
+      - '! (?i)^https?://[^/?#]*@'
+      - '! (?i)^https?://huggingface\.co/'

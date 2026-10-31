@@ -47,9 +47,12 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 90
   anchor: smart
-  hint: picture
+  jpeg:
+    quality: 90
+  webp:
+    quality: 90
+    hint: picture
 timeout: 600000
 taxonomies:
   author: authors
@@ -60,6 +63,22 @@ markup:
   highlight:
     lineNos: false
 security:
-  _merge: deep
+  exec:
+    allow:
+      - '^tailwindcss$'
+      - '^node$'
+  node:
+    permissions:
+      allowAddons:
+        - tailwindcss
+      allowChildProcess:
+        - tailwindcss
+      allowRead:
+        - .
+      allowWorker:
+        - tailwindcss
+      allowWrite: []
+      disable: false
 sitemap:
   _merge: deep
+

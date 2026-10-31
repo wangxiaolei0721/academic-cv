@@ -1,0 +1,10 @@
+下次预览网页，按这几步操作：
+1. 打开项目文件夹 F:\workspace\github\academic-cv。
+2. 在空白处右键，选择截图里的 Open Git Bash here。
+3. 输入以下命令，按回车：
+   bash preview.sh
+4. 等出现 Web Server is available 后，打开固定地址：
+   http://localhost:55371/
+保持终端窗口打开，网页才能访问。修改文件并保存后，页面会自动更新；结束预览时按 Ctrl+C。
+
+这些操作是本地预览，不会自动发布到 GitHub。
