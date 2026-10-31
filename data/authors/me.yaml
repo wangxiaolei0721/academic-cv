@@ -14,7 +14,7 @@ bio: |
 affiliations:
   - name: North China University of Water Resources and Electric Power
 links:
-  - icon: hero/academic-cap
+  - icon: hero/building-library
     url: https://www2.ncwu.edu.cn/guanjing/info/1119/14660.htm
     label: University Profile
   - icon: brands/github
