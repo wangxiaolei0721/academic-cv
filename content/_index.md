@@ -33,13 +33,13 @@ sections:
         - **王小雷**, 谢乃明. 融合灰色预测建模与优化决策的易变质产品库存集成建模方法. *工业工程与管理*, 2026.（已录用）
         - **Xiaolei Wang**, Naiming Xie, Lu Yang, Baolei Wei. Grey forecasting modelling for deteriorating inventory with interdependent quality and quantity decay. *Expert Systems with Applications*, 306, 130956, 2026. [Publisher](https://www.sciencedirect.com/science/article/pii/S0957417425045713)
         - **Xiaolei Wang**, Naiming Xie, Jiguo Cao. Recovering house price trajectories from sparse transaction data using functional principal component analysis. *Journal of Applied Statistics*, 2026. [Publisher](https://doi.org/10.1080/02664763.2025.2611298)
-        - **Xiaolei Wang**, Naiming Xie. Grey Forecasting Modeling for Deteriorating Inventory with Price Dependent Demand. *The Journal of Grey System*, 37(3), 50–60, 2025. [Publisher](https://jgrey.nuaa.edu.cn/EN/lexeme/showArticleByLexeme.do?articleID=10237)
+        - **Xiaolei Wang**, Naiming Xie. Grey Forecasting Modeling for Deteriorating Inventory with Price Dependent Demand. *The Journal of Grey System*, 37(3), 50–60, 2025. [Publisher](https://jgrey.nuaa.edu.cn/EN/Y2025/V37/I3/50)
         - **Xiaolei Wang**, Naiming Xie. A non-linear grey Fourier model based on kernel method for seasonal traffic speed forecasting. *Communications in Nonlinear Science and Numerical Simulation*, 131, 107871, 2024. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S1007570424000571)
         - **Xiaolei Wang**, Naiming Xie. Discovering the mechanism of grey forecasting models from the perspective of dynamic system modelling. *The Journal of Grey System*, 36(2), 90–99, 2024. [Publisher](https://jgrey.nuaa.edu.cn/EN/Y2024/V36/I2/90)
         - **Xiaolei Wang**, Naiming Xie, Lu Yang. A flexible grey Fourier model based on integral matching for forecasting seasonal PM2.5 time series. *Chaos, Solitons & Fractals*, 162, 112417, 2022. [Publisher](https://www.sciencedirect.com/science/article/pii/S0960077922006270)
-        - 罗党, **王小雷\***, 孙德才, 张国政. 含时间周期项的离散灰色DGM(1,1,T)模型及其应用. *系统工程理论与实践*, 40(10), 2737–2746, 2020. [Publisher](https://sysengi.cjoe.ac.cn/CN/10.12011/1000-6788-2019-1335-10)
-        - 罗党\*, **王小雷**. 耦合三角函数的灰色GM(1,1,T)模型及其应用. *系统工程理论与实践*, 40(07), 1906–1917, 2020. [Publisher](https://sysengi.cjoe.ac.cn/CN/10.12011/1000-6788-2019-0381-12)
-        - Dang Luo\*, **Xiaolei Wang**, Yimeng An. A variable selection method for GM(1,N) model. *The Journal of Grey System*, 32(4), 119–136, 2020. [Publisher](https://jgrey.nuaa.edu.cn/EN/Y2020/V32/I4/119)
+        - 罗党, **王小雷**, 孙德才, 张国政. 含时间周期项的离散灰色DGM(1,1,T)模型及其应用. *系统工程理论与实践*, 40(10), 2737–2746, 2020. [Publisher](https://sysengi.cjoe.ac.cn/CN/10.12011/1000-6788-2019-1335-10)
+        - 罗党, **王小雷**. 耦合三角函数的灰色GM(1,1,T)模型及其应用. *系统工程理论与实践*, 40(07), 1906–1917, 2020. [Publisher](https://sysengi.cjoe.ac.cn/CN/10.12011/1000-6788-2019-0381-12)
+        - Dang Luo, **Xiaolei Wang**, Yimeng An. A variable selection method for GM(1,N) model. *The Journal of Grey System*, 32(4), 119–136, 2020. [Publisher](https://jgrey.nuaa.edu.cn/EN/Y2020/V32/I4/119)
     design:
       columns: '1'
   - block: markdown
@@ -75,7 +75,6 @@ sections:
     design:
       view: card
 ---
-
 
 
 
